@@ -1,3 +1,3 @@
 # tadhglewis.github.io
 
-https://tadhglewis.com/
+https://tadhglewis.com
